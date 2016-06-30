@@ -1,0 +1,24 @@
+{
+    "models": [
+        "fc-22"
+    ],
+    "power": {
+        "name": "vcc",
+        "voltage": "5v"
+    },
+    "args": {
+        "thresholdVoltage": {
+            "type": "number",
+            "default": 1
+        },
+        "interval": {
+            "type": "number",
+            "default": 1000
+        }
+    },
+    "inputs": {
+        "adc": {
+            "type" : "adc"
+        }
+    }
+}
