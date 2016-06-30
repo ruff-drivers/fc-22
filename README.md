@@ -24,7 +24,7 @@ rap device add <device-id>
 # Then enter a supported model, for example:
 # ? model: fc-22
 # ? value (number) for argument "thresholdVoltage": (1)
-# ? value (number) for argument "interval": (1)
+# ? value (number) for argument "interval": (1000)
 ```
 
 ### Arguments
