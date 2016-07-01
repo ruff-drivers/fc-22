@@ -1,6 +1,6 @@
 {
   "name": "fc-22",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "FC-22 Harmful Gas Detector Driver for Ruff.",
   "author": "Nanchao Inc.",
   "license": "MIT",
