@@ -6,7 +6,7 @@ FC-22 harmful gas detector driver using ADC interface.
 
 ## Supported Engines
 
-* Ruff: >=1.2.0 <1.7.0
+* Ruff: >=1.2.0 <2.0.0
 
 ## Supported Models
 

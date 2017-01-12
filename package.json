@@ -1,6 +1,6 @@
 {
   "name": "fc-22",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "FC-22 Harmful Gas Detector Driver for Ruff.",
   "author": "Nanchao Inc.",
   "license": "MIT",
@@ -19,7 +19,7 @@
   "main": "src/index.js",
   "device-typings": "typings/device.d.ts",
   "engines": {
-    "ruff": ">=1.2.0 <1.7.0"
+    "ruff": ">=1.2.0 <2.0.0"
   },
   "scripts": {
     "install-sdk": "rvm install --local",
